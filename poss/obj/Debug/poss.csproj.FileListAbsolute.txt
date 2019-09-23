@@ -1,0 +1,24 @@
+C:\Users\gg\source\repos\poss\poss\bin\Debug\poss.exe.config
+C:\Users\gg\source\repos\poss\poss\bin\Debug\poss.exe
+C:\Users\gg\source\repos\poss\poss\bin\Debug\poss.pdb
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.csprojAssemblyReference.cache
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.main.resources
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.Properties.Resources.resources
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.csproj.GenerateResource.cache
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.csproj.CoreCompileInputs.cache
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.exe
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.pdb
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.menu.resources
+C:\Users\gg\source\repos\poss\poss\obj\Debug\poss.addmenu.resources
+C:\Users\gg\Desktop\포스기 C#\poss\bin\Debug\poss.exe.config
+C:\Users\gg\Desktop\포스기 C#\poss\bin\Debug\poss.exe
+C:\Users\gg\Desktop\포스기 C#\poss\bin\Debug\poss.pdb
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.csprojAssemblyReference.cache
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.addmenu.resources
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.main.resources
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.menu.resources
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.Properties.Resources.resources
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.csproj.GenerateResource.cache
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.csproj.CoreCompileInputs.cache
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.exe
+C:\Users\gg\Desktop\포스기 C#\poss\obj\Debug\poss.pdb
